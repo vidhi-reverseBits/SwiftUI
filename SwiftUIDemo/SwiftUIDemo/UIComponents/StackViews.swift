@@ -40,6 +40,15 @@ struct StackViews: View {
                 .fill(.red)
                 .frame(width: 100, height: 100)
         }
+        
+        HStack {
+            Image(systemName: "clock.fill")
+            Text("Set the timer")
+        }
+        .font(.title.bold())
+        .foregroundStyle(
+            .linearGradient(colors: [.red, .black], startPoint: .top, endPoint: .bottom)
+        )
     }
 }
 

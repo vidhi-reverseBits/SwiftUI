@@ -15,6 +15,11 @@
 		9FE0CC882B9C23D30082B989 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CC872B9C23D30082B989 /* ImageView.swift */; };
 		9FE0CC8A2B9C25F00082B989 /* StackViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CC892B9C25F00082B989 /* StackViews.swift */; };
 		9FE0CC8E2B9C284B0082B989 /* Buttons.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CC8D2B9C284B0082B989 /* Buttons.swift */; };
+		9FE0CC982B9C30F80082B989 /* Shapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CC972B9C30F80082B989 /* Shapes.swift */; };
+		9FE0CC9E2B9C345E0082B989 /* CombineShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CC9D2B9C345E0082B989 /* CombineShapes.swift */; };
+		9FE0CCA22B9C37700082B989 /* ScrollViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA12B9C37700082B989 /* ScrollViewDemo.swift */; };
+		9FE0CCA42B9C385F0082B989 /* HorizontalScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */; };
+		9FE0CCA62B9C3B460082B989 /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +32,11 @@
 		9FE0CC872B9C23D30082B989 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 		9FE0CC892B9C25F00082B989 /* StackViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViews.swift; sourceTree = "<group>"; };
 		9FE0CC8D2B9C284B0082B989 /* Buttons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttons.swift; sourceTree = "<group>"; };
+		9FE0CC972B9C30F80082B989 /* Shapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shapes.swift; sourceTree = "<group>"; };
+		9FE0CC9D2B9C345E0082B989 /* CombineShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineShapes.swift; sourceTree = "<group>"; };
+		9FE0CCA12B9C37700082B989 /* ScrollViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewDemo.swift; sourceTree = "<group>"; };
+		9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollView.swift; sourceTree = "<group>"; };
+		9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +93,11 @@
 				9FE0CC8D2B9C284B0082B989 /* Buttons.swift */,
 				9FE0CC872B9C23D30082B989 /* ImageView.swift */,
 				9FE0CC892B9C25F00082B989 /* StackViews.swift */,
+				9FE0CC972B9C30F80082B989 /* Shapes.swift */,
+				9FE0CC9D2B9C345E0082B989 /* CombineShapes.swift */,
+				9FE0CCA12B9C37700082B989 /* ScrollViewDemo.swift */,
+				9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */,
+				9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */,
 			);
 			path = UIComponents;
 			sourceTree = "<group>";
@@ -157,12 +172,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FE0CC982B9C30F80082B989 /* Shapes.swift in Sources */,
 				9FE0CC882B9C23D30082B989 /* ImageView.swift in Sources */,
 				9FE0CC8A2B9C25F00082B989 /* StackViews.swift in Sources */,
+				9FE0CCA62B9C3B460082B989 /* TextFieldDemo.swift in Sources */,
 				9F5C90252B8C55930013DA57 /* ContentView.swift in Sources */,
 				9FE0CC8E2B9C284B0082B989 /* Buttons.swift in Sources */,
+				9FE0CCA42B9C385F0082B989 /* HorizontalScrollView.swift in Sources */,
 				9F5C90232B8C55930013DA57 /* SwiftUIDemoApp.swift in Sources */,
+				9FE0CCA22B9C37700082B989 /* ScrollViewDemo.swift in Sources */,
 				9FE0CC862B9C221A0082B989 /* LabelView.swift in Sources */,
+				9FE0CC9E2B9C345E0082B989 /* CombineShapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
