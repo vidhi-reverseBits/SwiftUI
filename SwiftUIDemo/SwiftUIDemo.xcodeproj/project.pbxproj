@@ -20,6 +20,7 @@
 		9FE0CCA22B9C37700082B989 /* ScrollViewDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA12B9C37700082B989 /* ScrollViewDemo.swift */; };
 		9FE0CCA42B9C385F0082B989 /* HorizontalScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */; };
 		9FE0CCA62B9C3B460082B989 /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */; };
+		9FE0CCAA2B9C4A230082B989 /* FormDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA92B9C4A230082B989 /* FormDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		9FE0CCA12B9C37700082B989 /* ScrollViewDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewDemo.swift; sourceTree = "<group>"; };
 		9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollView.swift; sourceTree = "<group>"; };
 		9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
+		9FE0CCA92B9C4A230082B989 /* FormDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				9FE0CCA12B9C37700082B989 /* ScrollViewDemo.swift */,
 				9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */,
 				9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */,
+				9FE0CCA92B9C4A230082B989 /* FormDemo.swift */,
 			);
 			path = UIComponents;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				9F5C90232B8C55930013DA57 /* SwiftUIDemoApp.swift in Sources */,
 				9FE0CCA22B9C37700082B989 /* ScrollViewDemo.swift in Sources */,
 				9FE0CC862B9C221A0082B989 /* LabelView.swift in Sources */,
+				9FE0CCAA2B9C4A230082B989 /* FormDemo.swift in Sources */,
 				9FE0CC9E2B9C345E0082B989 /* CombineShapes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
