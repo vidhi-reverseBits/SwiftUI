@@ -21,6 +21,7 @@
 		9FE0CCA42B9C385F0082B989 /* HorizontalScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */; };
 		9FE0CCA62B9C3B460082B989 /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */; };
 		9FE0CCAA2B9C4A230082B989 /* FormDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA92B9C4A230082B989 /* FormDemo.swift */; };
+		9FE0CCAC2B9C84090082B989 /* ToggleDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCAB2B9C84090082B989 /* ToggleDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalScrollView.swift; sourceTree = "<group>"; };
 		9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
 		9FE0CCA92B9C4A230082B989 /* FormDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormDemo.swift; sourceTree = "<group>"; };
+		9FE0CCAB2B9C84090082B989 /* ToggleDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				9FE0CCA32B9C385F0082B989 /* HorizontalScrollView.swift */,
 				9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */,
 				9FE0CCA92B9C4A230082B989 /* FormDemo.swift */,
+				9FE0CCAB2B9C84090082B989 /* ToggleDemo.swift */,
 			);
 			path = UIComponents;
 			sourceTree = "<group>";
@@ -177,6 +180,7 @@
 			files = (
 				9FE0CC982B9C30F80082B989 /* Shapes.swift in Sources */,
 				9FE0CC882B9C23D30082B989 /* ImageView.swift in Sources */,
+				9FE0CCAC2B9C84090082B989 /* ToggleDemo.swift in Sources */,
 				9FE0CC8A2B9C25F00082B989 /* StackViews.swift in Sources */,
 				9FE0CCA62B9C3B460082B989 /* TextFieldDemo.swift in Sources */,
 				9F5C90252B8C55930013DA57 /* ContentView.swift in Sources */,
