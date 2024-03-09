@@ -21,6 +21,8 @@ struct SliderDemo: View {
         } onEditingChanged: { editing in
             isEditing = editing
         }
+        .padding()
+        .tint(.green)
         
         Text("\(speed)")
             .foregroundStyle(isEditing ? .red : .blue)
