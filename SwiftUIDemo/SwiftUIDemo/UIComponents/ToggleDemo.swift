@@ -10,6 +10,7 @@ import SwiftUI
 struct ToggleDemo: View {
     @State private var showGreeting: Bool = true
     @State private var isOn: Bool = false
+    @State private var vibrateOnRing = true
     @State var lists = [
             EmailList(id: "Monthly Updates", isSubscribed: true),
             EmailList(id: "News Flashes", isSubscribed: true),
@@ -29,6 +30,9 @@ struct ToggleDemo: View {
         Toggle("Filter", isOn: $isOn)
             .toggleStyle(.button)
             .tint(.mint)
+            .padding()
+        
+        Toggle("Vibrate on Ring", systemImage: "dot.radiowaves.left.and.right", isOn: $vibrateOnRing)
             .padding()
         
         Form {

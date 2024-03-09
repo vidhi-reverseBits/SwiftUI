@@ -22,6 +22,7 @@
 		9FE0CCA62B9C3B460082B989 /* TextFieldDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */; };
 		9FE0CCAA2B9C4A230082B989 /* FormDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCA92B9C4A230082B989 /* FormDemo.swift */; };
 		9FE0CCAC2B9C84090082B989 /* ToggleDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCAB2B9C84090082B989 /* ToggleDemo.swift */; };
+		9FE0CCAE2B9C86FA0082B989 /* SliderDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FE0CCAD2B9C86FA0082B989 /* SliderDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldDemo.swift; sourceTree = "<group>"; };
 		9FE0CCA92B9C4A230082B989 /* FormDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormDemo.swift; sourceTree = "<group>"; };
 		9FE0CCAB2B9C84090082B989 /* ToggleDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleDemo.swift; sourceTree = "<group>"; };
+		9FE0CCAD2B9C86FA0082B989 /* SliderDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				9FE0CCA52B9C3B460082B989 /* TextFieldDemo.swift */,
 				9FE0CCA92B9C4A230082B989 /* FormDemo.swift */,
 				9FE0CCAB2B9C84090082B989 /* ToggleDemo.swift */,
+				9FE0CCAD2B9C86FA0082B989 /* SliderDemo.swift */,
 			);
 			path = UIComponents;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				9FE0CC8E2B9C284B0082B989 /* Buttons.swift in Sources */,
 				9FE0CCA42B9C385F0082B989 /* HorizontalScrollView.swift in Sources */,
 				9F5C90232B8C55930013DA57 /* SwiftUIDemoApp.swift in Sources */,
+				9FE0CCAE2B9C86FA0082B989 /* SliderDemo.swift in Sources */,
 				9FE0CCA22B9C37700082B989 /* ScrollViewDemo.swift in Sources */,
 				9FE0CC862B9C221A0082B989 /* LabelView.swift in Sources */,
 				9FE0CCAA2B9C4A230082B989 /* FormDemo.swift in Sources */,
